@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Clauderson Branco Xavier  
 
-**`AWS Certified Cloud Practitioner | AI-Assisted Certified Professional | Backend Developer`**  
+**`AWS Certified Cloud Practitioner | AI-Assisted Certified Professional | Full Stack Developer`**  
 
 ```java
 package GitHub;
@@ -9,7 +9,7 @@ public class Welcome {
         String name = "Clauderson Branco Xavier 👨‍💻";
         int age = 20;
         String studying = "Computer science";
-        String Dev = "Back-End";
+        String Dev = "Full Stack";
         String language = "English intermediate";
         String certification = "AWS Certified Cloud Practitioner"; 
       }
@@ -17,7 +17,7 @@ public class Welcome {
 
 ```
 
-Hi there! I'm a Computer Science student at the **Universidade do Agreste de Pernambuco (UFAPE)**. My academic and professional journey is driven by a constant pursuit of new knowledge and the exploration of innovative technologies, with a particular focus on **Backend Development**, **Cloud Computing**, and **Software Engineering**.  
+Hi there! I'm a Computer Science student at the **Universidade do Agreste de Pernambuco (UFAPE)**. My academic and professional journey is driven by a constant pursuit of new knowledge and the exploration of innovative technologies, with a particular focus on **Full Stack Development**, **Cloud Computing**, and **Software Engineering**.  
 
 ---
 
@@ -27,7 +27,10 @@ Hi there! I'm a Computer Science student at the **Universidade do Agreste de Per
 <img align="left" alt="C" title="C" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Typescript" title="Typescript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />          
+<img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /> 
+<img align="left" alt="Angular" title="Angular" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" />
+<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 
 <br/><br/>
 
