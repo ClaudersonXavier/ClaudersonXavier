@@ -24,7 +24,7 @@ Hi there! I'm a Computer Science student at the **Universidade do Agreste de Per
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,js,ts,angular,css,html,aws,linux,mongodb,postgres,spring,eclipse,vscode,idea,powershell,github,git" />
+    <img src="https://skillicons.dev/icons?i=c,java,js,ts,angular,css,html,aws,linux,mongodb,postgres,docker,spring,eclipse,vscode,idea,powershell,github,git" />
   </a>
 </p>
 
@@ -33,6 +33,7 @@ Hi there! I'm a Computer Science student at the **Universidade do Agreste de Per
 ### 📫 Contats
 
 ✉️ **Email:** [workclauderson98@gmail.com](mailto:workclauderson98@gmail.com)  
+🌐 **Linkedin:**  [Clauderson Branco Xavier](https://www.linkedin.com/in/claudersonbrancoxavier/)  
 👾 **GitHub:** [ClaudersonXavier](https://github.com/ClaudersonXavier)  
 
 ---
