@@ -40,7 +40,7 @@ Hi there! I'm a Computer Science student at the **Universidade do Agreste de Per
 
 ### 📈 GitHub Stats  
 
-<p>
-  <img align="left" alt="GitHub Stats" height="150" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=ClaudersonXavier&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" />
-  <img align="left" alt="Most Used Languages" height="150"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudersonXavier&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" />
-</p>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ClaudersonXavier&show_icons=true&count_private=true&hide_border=true&title_color=007BFF&icon_color=007BFF&text_color=c9d1d9&bg_color=0d1117" alt="Jennifer Gabriely GitHub stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudersonXavier&layout=compact&hide_border=true&title_color=007BFF&text_color=007BFF&bg_color=0d1117" />
+</div>
