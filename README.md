@@ -41,14 +41,7 @@ Hi there! I'm a Computer Science student at the **Universidade do Agreste de Per
 
 ## 📫 Contact
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/claudersonxavier" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-ClaudersonXavier-blue?logo=linkedin&style=flat-square" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/ClaudersonXavier" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-ClaudersonXavier-black?logo=github&style=flat-square" alt="GitHub"/>
-  </a>
-  <a href="workclauderson98@gmail.com">
-    <img src="https://img.shields.io/badge/Email-workclauderson98@gmail.com-red?logo=gmail&style=flat-square" alt="Email"/>
-  </a>
-</p>
+
+✉️ **Email:** [workclauderson98@gmail.com](mailto:workclauderson98@gmail.com)  
+🌐 **Linkedin:**  [Clauderson Branco Xavier](https://www.linkedin.com/in/claudersonbrancoxavier/)  
+👾 **GitHub:** [ClaudersonXavier](https://github.com/ClaudersonXavier)  
