@@ -48,7 +48,7 @@ Hi there! I'm a Computer Science student at the **Universidade do Agreste de Per
   <a href="https://github.com/ClaudersonXavier" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-ClaudersonXavier-black?logo=github&style=flat-square" alt="GitHub"/>
   </a>
-  <a href="mailto:workclauderson98@gmail.com">
+  <a href="workclauderson98@gmail.com">
     <img src="https://img.shields.io/badge/Email-workclauderson98@gmail.com-red?logo=gmail&style=flat-square" alt="Email"/>
   </a>
 </p>
