@@ -9,7 +9,7 @@ public class Welcome {
         String name = "Clauderson Branco Xavier";
         String studying = "Computer Science";
         String Dev = "Full Stack";
-        String language = "English intermediate";
+        String language = "Advanced English | Basic Spanish";
         String certification = "AWS Certified Cloud Practitioner"; 
       }
   }
